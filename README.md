@@ -1,2 +1,2 @@
 # PSF-simulation-by-FFT
-PSF profile simulation with introduced zernike modes
+Simple PSF simulation with introduced zernike modes at pupil.
